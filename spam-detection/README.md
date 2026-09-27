@@ -10,7 +10,10 @@ Classifying text messages as **spam (1)** or **not spam (0)** from their content
   - **Logistic Regression:** a strong baseline for binary classification
 
 
-<img width="845" height="1190" alt="download" src="https://github.com/user-attachments/assets/f7c53689-c732-4f1b-8b59-e8d11b376908" />**Key takeaway:** Naive Bayes performed best and is the recommended model. *[add one line on why, e.g. precision on spam]*
+<img width="845" height="1190" alt="download" src="https://github.com/user-attachments/assets/f7c53689-c732-4f1b-8b59-e8d11b376908" />
+
+
+**Key takeaway:** Naive Bayes performed best and is the recommended model. *[add one line on why, e.g. precision on spam]*
 
 ## Files
 
